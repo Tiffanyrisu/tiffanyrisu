@@ -2,7 +2,7 @@
 
 <h2>:computer: Cybersecurity Projects:</h2>
 
-  - [SIEM lab](https://github.com/Tiffanyrisu/Azure-Honeypot)
+  - [Implementing a SOC and Honeypot in Azure](https://github.com/Tiffanyrisu/Azure-Honeypot)
 
 
 <h2>📄 Certifications:</h2>

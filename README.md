@@ -2,7 +2,7 @@
 
 <h2>:computer: Cybersecurity Projects:</h2>
 
-  - [SIEM lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Tiffanyrisu/Azure-Honeypot/edit/main/README.md))
+  - [SIEM lab](https://github.com/Tiffanyrisu/Azure-Honeypot/edit/main/README.md)
 
 
 <h2>📄 Certifications:</h2>

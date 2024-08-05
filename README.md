@@ -8,7 +8,7 @@
 <h2>📄 Certifications:</h2>
 
 - [Google Cybersecurity Professionals Certificate](https://www.credly.com/badges/74ecd9e4-c0a4-4d86-a8b4-9d2f274fabeb/public_url)
-
+- [CompTIA Security+ Certification](https://www.credly.com/badges/2e359029-7405-408d-beed-5bcdb59496d7/public_url)
 
 
 
